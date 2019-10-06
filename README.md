@@ -1,3 +1,5 @@
 # MyFirstRepository
 
-Here is some changes.
+Here are some changes.
+
+Here are other changes.
