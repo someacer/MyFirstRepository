@@ -1,3 +1,7 @@
 # MyFirstRepository
 
-Changed to README.md 
+Here are some changes
+
+Here are other changes
+
+Here are some more changes
