@@ -7,8 +7,6 @@ Here are other changes
 
 Here are some more changes
 
-Hey!
+Here are changes by someacercl
 
 Here are some more words you requested
-
-
